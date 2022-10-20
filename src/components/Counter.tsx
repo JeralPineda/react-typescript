@@ -9,7 +9,7 @@ export const Counter = () => {
 
   return (
     <div className="mt-5">
-      <h1>Counter: useState</h1>
+      <h2>Counter:</h2>
       <span>Valor: {counter}</span>
       <hr />
 
